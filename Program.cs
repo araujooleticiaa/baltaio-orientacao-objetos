@@ -1,4 +1,5 @@
-﻿using System;
+﻿using balta.BaltaContext;
+using System;
 
 namespace balta
 {
@@ -6,7 +7,8 @@ namespace balta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var couser = new Couser();
+
         }
     }
 }
