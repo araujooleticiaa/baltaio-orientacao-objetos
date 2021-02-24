@@ -1,5 +1,6 @@
 ﻿using balta.BaltaContext;
 using System;
+using System.Collections.Generic;
 
 namespace balta
 {
@@ -7,8 +8,8 @@ namespace balta
     {
         static void Main(string[] args)
         {
-            var couser = new Couser();
-
+            var article = new List<Article>();
+            article.Add(new Article());
         }
     }
 }
