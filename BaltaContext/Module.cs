@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace balta.BaltaContext
 {
-    public class Module
+    public class Module : BaseContext
     {
         public Module()
         {

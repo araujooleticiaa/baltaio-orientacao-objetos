@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace balta.BaltaContext
 {
-    public class Lecture
+    public class Lecture : BaseContext
     {
         public int Order { get; set; }
         public string Title { get; set; }

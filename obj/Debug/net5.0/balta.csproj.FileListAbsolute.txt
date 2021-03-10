@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\bin\Debug\net5.0\balta.exe
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\bin\Debug\net5.0\balta.deps.json
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\bin\Debug\net5.0\balta.runtimeconfig.json
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\bin\Debug\net5.0\balta.runtimeconfig.dev.json
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\bin\Debug\net5.0\balta.dll
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\bin\Debug\net5.0\ref\balta.dll
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\bin\Debug\net5.0\balta.pdb
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.AssemblyInfo.cs
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.dll
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\ref\balta.dll
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.pdb
+C:\Users\user\Desktop\Dev\baltaio\orientacao-objetos\balta\obj\Debug\net5.0\balta.genruntimeconfig.cache

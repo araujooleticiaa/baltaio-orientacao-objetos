@@ -9,7 +9,7 @@ namespace balta.BaltaContext
 {
     public class Couser : Content
     {
-        public Couser()
+        public Couser(string title, string url) : base(title, url)
         {
             Modules = new List<Module>();
         }
